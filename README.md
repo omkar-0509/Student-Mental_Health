@@ -1,4 +1,4 @@
-# 🧠 Student Mental Health Analysis
+ # 🧠 Student Mental Health Analysis
 
 This project analyzes **Student Mental Health Data** to understand factors affecting students' mental well-being such as **stress, anxiety, depression, and burnout** using Data Science and Machine Learning techniques.
 
