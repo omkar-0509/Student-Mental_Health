@@ -1,38 +1,145 @@
 # 🧠 Student Mental Health Analysis
 
-This project analyzes student mental health data to identify stress, anxiety, and burnout patterns using Data Science and Machine Learning techniques.
+This project analyzes **Student Mental Health Data** to understand factors affecting students' mental well-being such as **stress, anxiety, depression, and burnout** using Data Science and Machine Learning techniques.
 
-## 📂 Dataset
-- **File:** student_mental_health_burnout_1M.csv  
-- Features include:
-  - Age
-  - Gender
-  - Study Hours
-  - Sleep Hours
-  - Academic Pressure
-  - Stress Level
-  - Anxiety Level
-  - Burnout Risk
+---
 
-## 🚀 Technologies Used
-- Python  
+# 📌 Project Overview
+
+Student mental health is an important factor affecting academic performance and overall well-being. This project aims to:
+
+- Analyze student mental health patterns  
+- Identify stress and burnout factors  
+- Visualize mental health trends  
+- Build predictive models  
+- Generate actionable insights  
+
+This project uses **Exploratory Data Analysis (EDA)**, **Data Visualization**, and **Machine Learning** techniques.
+
+---
+
+# 📂 Dataset Information
+
+**Dataset Name:** Student Mental Health Dataset  
+**File:** `student_mental_health_burnout_1M.csv`
+
+## Dataset Features
+
+The dataset contains the following features:
+
+- Age  
+- Gender  
+- Academic Pressure  
+- Study Hours  
+- Sleep Hours  
+- Physical Activity  
+- Social Media Usage  
+- Study Satisfaction  
+- Financial Stress  
+- Depression Level  
+- Anxiety Level  
+- Stress Level  
+- Burnout Risk  
+
+---
+
+# 🚀 Technologies Used
+
+## 🐍 Python Libraries
+
+### Data Processing
 - NumPy  
 - Pandas  
+
+### Data Visualization
 - Matplotlib  
 - Seaborn  
 - Plotly  
+
+### Machine Learning
 - Scikit-learn  
 
-## 📊 Project Tasks
-- Data Cleaning  
-- Exploratory Data Analysis  
-- Data Visualization  
-- Model Building  
-- Prediction  
+### Deep Learning (Optional)
+- TensorFlow  
+- Keras  
 
-## ▶️ Run Project
-```bash
-git clone https://github.com/omkar-0509/Student-Mental_Health.git
-cd Student-Mental_Health
-pip install -r requirements.txt
-jupyter notebook
+### Environment
+- Jupyter Notebook  
+
+---
+
+# 📊 Project Workflow
+
+## 1️⃣ Data Loading
+
+- Load dataset  
+- Understand dataset structure  
+- Check data types  
+
+## 2️⃣ Data Cleaning
+
+- Handle missing values  
+- Remove duplicates  
+- Convert data types  
+- Handle outliers  
+
+## 3️⃣ Exploratory Data Analysis (EDA)
+
+### Student Analysis
+
+- Age distribution  
+- Gender distribution  
+- Academic pressure analysis  
+
+### Mental Health Analysis
+
+- Stress level distribution  
+- Anxiety level analysis  
+- Depression analysis  
+- Burnout analysis  
+
+### Behavioral Analysis
+
+- Study hours vs stress  
+- Sleep hours vs depression  
+- Physical activity vs anxiety  
+- Social media usage vs stress  
+
+---
+
+# 📈 Data Visualizations
+
+This project includes:
+
+- Bar charts  
+- Pie charts  
+- Line charts  
+- Scatter plots  
+- Box plots  
+- Histogram  
+- Heatmaps  
+
+---
+
+# 🤖 Machine Learning Models (Optional)
+
+Models used:
+
+- Logistic Regression  
+- Decision Tree  
+- Random Forest  
+- Support Vector Machine  
+
+---
+
+# 📊 Model Evaluation
+
+Evaluation metrics:
+
+- Accuracy  
+- Precision  
+- Recall  
+- F1 Score  
+- Confusion Matrix  
+
+---
